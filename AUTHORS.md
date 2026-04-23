@@ -10,4 +10,10 @@ This is a mini-project at the Programming Club, IIT Madras. Here is the list of 
 
 
 ## Deputy Coordinators:
+* [AArit PandA](https://github.com/AaritPanda-git)
+
+
+* [Nithil Adav A](https://github.com/NA25-gh)
 * [Mukunthan K U](https://github.com/DoublePower12)
+* [Ruthvik Mani Sai](https://github.com/Ruthvik-mani-sai)
+* [Chaithanya P S](https://github.com/chaithanya-ps)
